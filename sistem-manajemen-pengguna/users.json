@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"users"},
+{"type":"table","name":"users","database":"users","data":
+[
+{"id":"1","name":"Nurul Hartika","email":"Yuka@example.com","phone":"08234718718"}
+]
+}
+]
